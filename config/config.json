@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "alexdegregori",
+    "password": null,
+    "database": "authapp_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "alexdegregori",
+    "password": null,
+    "database": "authapp_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "alexdegregori",
+    "password": null,
+    "database": "authapp_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
